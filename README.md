@@ -19,6 +19,24 @@ A modern, interactive operating system scheduler simulation dashboard for educat
   - Compare performance across different algorithms.
   - Detailed step-by-step execution logs.
 
+
+## Running Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+
 ## Tech Stack
 
 - **Frontend**: React 19, TypeScript
