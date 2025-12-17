@@ -1,0 +1,5 @@
+{
+  "name": "OS Scheduler Simulator",
+  "description": "A modern, interactive operating system scheduler simulation dashboard for educational purposes. Visualizes CPU scheduling algorithms including FCFS, RR, SRTF, and Multilevel Queues.",
+  "requestFramePermissions": []
+}
